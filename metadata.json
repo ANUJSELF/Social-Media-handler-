@@ -1,0 +1,6 @@
+{
+  "name": "Social Media AI Automation Dashboard",
+  "description": "Automated YouTube and Instagram content generation, scriptwriting, and performance analytics co-pilot dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

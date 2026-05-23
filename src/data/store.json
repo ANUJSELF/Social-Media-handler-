@@ -1,0 +1,690 @@
+{
+  "ideas": [
+    {
+      "id": "idea-1",
+      "title": "3 Shocking Space Facts They Didn't Teach You in School",
+      "niche": "Facts & Science",
+      "hook": "Did you know there's a planet made entirely of diamonds? Actually, it's way stranger than that...",
+      "targetAudience": "Gen Z & Millennials curiosities Enthusiasts",
+      "vibe": "mysterious",
+      "durationSeconds": 45,
+      "status": "posted",
+      "createdAt": "2026-05-18T08:00:00Z"
+    },
+    {
+      "id": "idea-2",
+      "title": "Why You Are Sleeping Wrong (An Honest Sleep Routine Blueprint)",
+      "niche": "Health & Fitness",
+      "hook": "If you wake up tired at 7 AM, you made a critical error at 10 PM. Here's why.",
+      "targetAudience": "Students & Young Professionals tracking wellness",
+      "vibe": "informative",
+      "durationSeconds": 50,
+      "status": "scripted",
+      "createdAt": "2026-05-19T09:15:00Z"
+    },
+    {
+      "id": "idea-3",
+      "title": "The $0 Secret to Starting a YouTube Automation Channel",
+      "niche": "Technology & Finance",
+      "hook": "Everyone is telling you to buy expensive video tools. Here is how I did it for zero dollars...",
+      "targetAudience": "Content creators and side-hustlers looking to automate",
+      "vibe": "energetic",
+      "durationSeconds": 40,
+      "status": "pending",
+      "createdAt": "2026-05-20T10:45:00Z"
+    },
+    {
+      "id": "idea-4",
+      "title": "How Artificial Intelligence is Spotting Cosmic Wonders",
+      "niche": "Technology & Science",
+      "hook": "Astronomers searched for this black hole for forty years. Artificial intelligence found it in forty seconds.",
+      "targetAudience": "Tech enthusiasts & space nerds",
+      "vibe": "cinematic",
+      "durationSeconds": 45,
+      "status": "pending",
+      "createdAt": "2026-05-22T14:30:20Z"
+    },
+    {
+      "id": "idea-1779553235473",
+      "title": "The Liquid Diamond Storms of Jupiter (Auto-Scheduled)",
+      "niche": "Facts & Science",
+      "hook": "It actually rains diamonds on Jupiter but you'll never guess how big they really get.",
+      "targetAudience": "Curious tech-savvy scrollers",
+      "vibe": "mysterious",
+      "durationSeconds": 42,
+      "status": "posted",
+      "createdAt": "2026-05-23T16:20:35.473Z"
+    }
+  ],
+  "scripts": [
+    {
+      "id": "script-1",
+      "ideaId": "idea-2",
+      "title": "Why You Are Sleeping Wrong (An Honest Sleep Routine Blueprint)",
+      "voiceName": "Zephyr",
+      "createdAt": "2026-05-19T10:30:00Z",
+      "completed": true,
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualPrompt": "Close up photo of a blue glowing smartphone display illuminating a dark aesthetic bedroom. Shallow depth of field, photorealistic, cinematic lighting.",
+          "dialogue": "Look at that phone. That blue light isn't just bright - it's lying to your brain.",
+          "voiceoverText": "Look at that phone screen. That blue light isn't just bright - it's lying to your brain that it is high noon.",
+          "duration": 10,
+          "imageUrl": "https://picsum.photos/seed/smartphone/512/912"
+        },
+        {
+          "sceneNumber": 2,
+          "visualPrompt": "Isometric 3D render of a healthy sleep environment, calming green houseplants, humid cooler machine, amber lighting, cosy bedroom aesthetics.",
+          "dialogue": "Your brain thinks it's high noon, completely killing your melatonin production. If you want deep sleep, switch to warm amber lights by ten and hide your screen.",
+          "voiceoverText": "This kills your melatonin production instantly. To fix it, swap to warm amber lights by ten and lock your screen away.",
+          "duration": 15,
+          "imageUrl": "https://picsum.photos/seed/sleeproom/512/912"
+        },
+        {
+          "sceneNumber": 3,
+          "visualPrompt": "Cinematic flat-lay shot of a glass of chamomile tea next to an old-school alarm clock showing 10:30 PM, soft focus, high-contrast cozy dark shadows.",
+          "dialogue": "Give it try tonight. Your mornings will feel infinitely better. Subscribe for more tiny habits.",
+          "voiceoverText": "Make this one tweak and watch how fast you spring out of bed tomorrow. Subscribe for more high-yield daily routines.",
+          "duration": 12,
+          "imageUrl": "https://picsum.photos/seed/chamomile/512/912"
+        }
+      ]
+    },
+    {
+      "id": "script-space",
+      "ideaId": "idea-1",
+      "title": "3 Shocking Space Facts They Didn't Teach You in School",
+      "voiceName": "Kore",
+      "createdAt": "2026-05-18T08:15:00Z",
+      "completed": true,
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualPrompt": "Bespoke cosmic space rendering with beautiful nebula clouds, glowing yellow stars, and a giant sparkling diamond crystal planet reflecting ambient space light.",
+          "dialogue": "Fifty light-years away, there is a star named Lucy. And yes, her core is literally a ten-billion-trillion-trillion-carat diamond.",
+          "voiceoverText": "Fifty light-years away, there is a star named Lucy. And yes, her core is literally a ten-billion-trillion-trillion-carat diamond.",
+          "duration": 12,
+          "imageUrl": "https://picsum.photos/seed/spacelucy/512/912"
+        },
+        {
+          "sceneNumber": 2,
+          "visualPrompt": "A giant ringed planet composed entirely of beautiful golden liquid hot metallic gas, floating in deep dark velvet cosmos with nearby binary system.",
+          "dialogue": "Next, it actually rains liquid diamonds on Saturn and Jupiter due to extreme atmospheric pressures. Imagine getting caught in THAT storm.",
+          "voiceoverText": "Next, it actually rains solid diamonds on Saturn and Jupiter due to extreme atmospheric pressures. Imagine getting caught in THAT thunderstorm.",
+          "duration": 15,
+          "imageUrl": "https://picsum.photos/seed/spacejupiter/512/912"
+        },
+        {
+          "sceneNumber": 3,
+          "visualPrompt": "Futuristic astronaut suit looking back at a vibrant blue glowing planet earth from a distance, starry cosmic backdrop, dramatic, reflective visor, high detailed.",
+          "dialogue": "Finally, space is completely silent. Sound waves need atmosphere to travel, leaving you alone in perfect quiet. Follow for curious facts every morning!",
+          "voiceoverText": "Finally, outer space is completely silent. Sound waves need atmosphere to travel, leaving you in perfect, absolute quiet. Hit mock follow to discover space mysteries daily!",
+          "duration": 18,
+          "imageUrl": "https://picsum.photos/seed/spacequiet/512/912"
+        }
+      ]
+    },
+    {
+      "id": "script-1779553235473",
+      "ideaId": "idea-1779553235473",
+      "title": "The Liquid Diamond Storms of Jupiter (Auto-Scheduled)",
+      "voiceName": "Kore",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "visualPrompt": "Stunning atmospheric visual rendering of a deep planet surface under heavy cloud layers, glowing diamond particles falling, volumetric cinematic lights, portrait aspect.",
+          "dialogue": "It actually rains diamonds on Jupiter but you'll never guess how big they really get. Let's explore exactly what happens behind the gas clouds.",
+          "voiceoverText": "It actually rains diamonds on Jupiter but you'll never guess how big they really get. Let’s break down exactly what happens deep inside the storm.",
+          "duration": 10,
+          "imageUrl": "https://picsum.photos/seed/planet/512/912"
+        },
+        {
+          "sceneNumber": 2,
+          "visualPrompt": "Extreme pressure chamber diagram showing carbon structural atoms crystallizing under extreme planetary pressure, sparkling graphics, science style rendering, realistic.",
+          "dialogue": "Under extreme atmospheric gravity, airborne carbon is squished first into soot, turning literally into solid diamonds as they float downward.",
+          "voiceoverText": "Under millions of bars of pressure, airborne carbon soot crystallizes, transforming directly into hard, shimmering diamonds that float to the core.",
+          "duration": 15,
+          "imageUrl": "https://picsum.photos/seed/sciencepress/512/912"
+        },
+        {
+          "sceneNumber": 3,
+          "visualPrompt": "A futuristic glass bubble outpost hovering over methane sea representing human space exploration, beautiful orange skies, modern luxury clean aesthetic.",
+          "dialogue": "Follow CosmoFacts for daily morning space discoveries and habit upgrades right on your phone screen.",
+          "voiceoverText": "Double tap and subscribe to CosmoFacts to unpack the deepest space secrets automatically every single morning.",
+          "duration": 12,
+          "imageUrl": "https://picsum.photos/seed/outpostspace/512/912"
+        }
+      ],
+      "createdAt": "2026-05-23T16:20:35.473Z",
+      "completed": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-yt-anime-1",
+      "scriptId": "script-anime-first",
+      "title": "Legacy of the Shadow Leaf: S1 FULL MOVIE (Continuous Anime Storyline Compilation)",
+      "niche": "Anime Stories & Lore",
+      "postedAt": "2026-05-23T16:50:00.000Z",
+      "thumbnailUrl": "https://picsum.photos/seed/anime-sched-1/512/912",
+      "youtube": {
+        "views": 2540,
+        "likes": 312,
+        "comments": 45,
+        "shares": 89,
+        "watchTimeHours": 32.5
+      },
+      "analytics": {
+        "language": "english",
+        "hashtags": ["#anime", "#manga", "#naruto", "#otaku", "#shinobi", "#shonen", "#lore", "#fullmovie"],
+        "retentionCurve": [100, 91, 82, 75, 66, 58, 52, 48],
+        "demographics": {
+          "age": [{"label": "18-24", "value": 72}, {"label": "25-34", "value": 21}, {"label": "Other", "value": 7}],
+          "gender": [{"label": "Male", "value": 78}, {"label": "Female", "value": 20}, {"label": "Non-binary", "value": 2}],
+          "countries": [{"label": "United States", "value": 45}, {"label": "India", "value": 35}, {"label": "Germany", "value": 20}]
+        }
+      }
+    },
+    {
+      "id": "post-ig-anime-1",
+      "scriptId": "script-anime-first",
+      "title": "Legacy of the Shadow Leaf: Chapter 1 - The Awakening",
+      "niche": "Anime Stories & Lore",
+      "postedAt": "2026-05-23T16:51:00.000Z",
+      "thumbnailUrl": "https://picsum.photos/seed/anime-sched-1/512/912",
+      "instagram": {
+        "views": 4120,
+        "likes": 560,
+        "comments": 68,
+        "shares": 112
+      },
+      "analytics": {
+        "language": "english",
+        "hashtags": ["#anime", "#manga", "#naruto", "#otaku", "#shinobi", "#shonen", "#lore"],
+        "retentionCurve": [100, 94, 85, 78, 64],
+        "demographics": {
+          "age": [{"label": "18-24", "value": 70}, {"label": "25-34", "value": 23}, {"label": "Other", "value": 7}],
+          "gender": [{"label": "Male", "value": 75}, {"label": "Female", "value": 23}, {"label": "Non-binary", "value": 2}],
+          "countries": [{"label": "United States", "value": 40}, {"label": "India", "value": 40}, {"label": "United Kingdom", "value": 15}]
+        }
+      }
+    },
+    {
+      "id": "post-ig-anime-2",
+      "scriptId": "script-anime-first",
+      "title": "Legacy of the Shadow Leaf: Chapter 2 - Shadow Clones",
+      "niche": "Anime Stories & Lore",
+      "postedAt": "2026-05-23T16:52:00.000Z",
+      "thumbnailUrl": "https://picsum.photos/seed/anime-sched-4/512/912",
+      "instagram": {
+        "views": 3890,
+        "likes": 482,
+        "comments": 41,
+        "shares": 95
+      },
+      "analytics": {
+        "language": "english",
+        "hashtags": ["#anime", "#manga", "#naruto", "#otaku", "#shinobi", "#shonen", "#clones"],
+        "retentionCurve": [100, 92, 81, 74, 61],
+        "demographics": {
+          "age": [{"label": "18-24", "value": 68}, {"label": "25-34", "value": 25}, {"label": "Other", "value": 7}],
+          "gender": [{"label": "Male", "value": 73}, {"label": "Female", "value": 24}, {"label": "Non-binary", "value": 3}],
+          "countries": [{"label": "United States", "value": 42}, {"label": "India", "value": 38}, {"label": "Germany", "value": 20}]
+        }
+      }
+    },
+    {
+      "id": "post-1779553235473",
+      "scriptId": "script-1779553235473",
+      "title": "The Liquid Diamond Storms of Jupiter (Auto-Scheduled)",
+      "niche": "Facts & Science",
+      "postedAt": "2026-05-23T16:20:35.473Z",
+      "thumbnailUrl": "https://picsum.photos/seed/planet/512/912",
+      "youtube": {
+        "views": 22777,
+        "likes": 2171,
+        "comments": 142,
+        "shares": 666,
+        "watchTimeHours": 273.4
+      },
+      "instagram": {
+        "views": 30325,
+        "likes": 4015,
+        "comments": 325,
+        "shares": 1318
+      }
+    },
+    {
+      "id": "post-1",
+      "scriptId": "script-space",
+      "title": "3 Shocking Space Facts They Didn't Teach You in School",
+      "niche": "Facts & Science",
+      "postedAt": "2026-05-18T08:30:00Z",
+      "thumbnailUrl": "https://picsum.photos/seed/spacelucy/512/912",
+      "youtube": {
+        "views": 42074,
+        "likes": 3769,
+        "comments": 265,
+        "shares": 1095,
+        "watchTimeHours": 505.6
+      },
+      "instagram": {
+        "views": 49548,
+        "likes": 6184,
+        "comments": 500,
+        "shares": 1894
+      }
+    },
+    {
+      "id": "post-2",
+      "scriptId": "script-1",
+      "title": "Why You Are Sleeping Wrong (An Honest Sleep Routine Blueprint)",
+      "niche": "Health & Fitness",
+      "postedAt": "2026-05-20T08:30:22Z",
+      "thumbnailUrl": "https://picsum.photos/seed/smartphone/512/912",
+      "youtube": {
+        "views": 36422,
+        "likes": 3333,
+        "comments": 226,
+        "shares": 936,
+        "watchTimeHours": 426
+      },
+      "instagram": {
+        "views": 40776,
+        "likes": 4568,
+        "comments": 403,
+        "shares": 1461
+      }
+    },
+    {
+      "id": "post-3",
+      "scriptId": "script-space",
+      "title": "Secrets of Jupiter's Liquid Diamond Rain Storms",
+      "niche": "Facts & Science",
+      "postedAt": "2026-05-22T08:30:10Z",
+      "thumbnailUrl": "https://picsum.photos/seed/spacejupiter/512/912",
+      "youtube": {
+        "views": 28898,
+        "likes": 2708,
+        "comments": 179,
+        "shares": 785,
+        "watchTimeHours": 345.6
+      },
+      "instagram": {
+        "views": 35195,
+        "likes": 4296,
+        "comments": 350,
+        "shares": 1409
+      }
+    }
+  ],
+  "settings": {
+    "autoPilotEnabled": true,
+    "postTime": "08:30",
+    "selectedNiche": "Anime Stories & Lore",
+    "youtubeConnected": true,
+    "instagramConnected": true,
+    "youtubeChannelName": "anujtiwari.kr@gmail.com",
+    "instagramUsername": "anime_stories_u",
+    "contentLanguage": "english",
+    "styleTheme": "anime_naruto",
+    "youtubeClientId": "client-id-anujtiwari-google",
+    "youtubeClientSecret": "sec-anujtiwari-google",
+    "instagramAccessToken": "meta-tok-anime-stories-u",
+    "instagramPassword": "An18@anuj",
+    "targetFormat": "both",
+    "dailyInstaPostsCount": 4,
+    "customHashtags": "#anime #manga #naruto #otaku #shinobi #shonen #lore #ai #facts",
+    "autoUploadToPlatforms": true
+  },
+  "logs": [
+    {
+      "id": "log-traffic-1779555339831",
+      "timestamp": "2026-05-23T16:55:39.831Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3036 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779555294812",
+      "timestamp": "2026-05-23T16:54:54.812Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1723 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779555250629",
+      "timestamp": "2026-05-23T16:54:10.629Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2845 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779555204817",
+      "timestamp": "2026-05-23T16:53:24.817Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1790 organic impressions."
+    },
+    {
+      "id": "log-daemon-start-1779555152323",
+      "timestamp": "2026-05-23T16:52:32.323Z",
+      "type": "info",
+      "message": "[System Info] Background 24/7 Autopilot engine successfully connected! Active targets: YouTube (anujtiwari.kr@gmail.com), Instagram (anime_stories_u). Monitoring daily scheduled postTime: \"08:30\"."
+    },
+    {
+      "id": "log-daemon-start-1779555142490",
+      "timestamp": "2026-05-23T16:52:22.490Z",
+      "type": "info",
+      "message": "[System Info] Background 24/7 Autopilot engine successfully connected! Active targets: YouTube (anujtiwari.kr@gmail.com), Instagram (anime_stories_u). Monitoring daily scheduled postTime: \"08:30\"."
+    },
+    {
+      "id": "log-traffic-1779555128680",
+      "timestamp": "2026-05-23T16:52:08.680Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3692 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779555083253",
+      "timestamp": "2026-05-23T16:51:23.253Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1310 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779555040005",
+      "timestamp": "2026-05-23T16:50:40.006Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1677 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554993619",
+      "timestamp": "2026-05-23T16:49:53.619Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1332 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554948616",
+      "timestamp": "2026-05-23T16:49:08.616Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3569 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554903246",
+      "timestamp": "2026-05-23T16:48:23.246Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1462 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554858637",
+      "timestamp": "2026-05-23T16:47:38.637Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3689 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554819657",
+      "timestamp": "2026-05-23T16:46:59.657Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1118 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554724193",
+      "timestamp": "2026-05-23T16:45:24.193Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2614 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554678603",
+      "timestamp": "2026-05-23T16:44:38.603Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3157 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554661482",
+      "timestamp": "2026-05-23T16:44:21.482Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2576 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554658892",
+      "timestamp": "2026-05-23T16:44:18.892Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3128 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554633375",
+      "timestamp": "2026-05-23T16:43:53.375Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1869 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554588235",
+      "timestamp": "2026-05-23T16:43:08.235Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3607 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554543227",
+      "timestamp": "2026-05-23T16:42:23.227Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2315 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554498580",
+      "timestamp": "2026-05-23T16:41:38.580Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3725 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554453592",
+      "timestamp": "2026-05-23T16:40:53.592Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3050 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554409904",
+      "timestamp": "2026-05-23T16:40:09.904Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2066 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554363568",
+      "timestamp": "2026-05-23T16:39:23.568Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3411 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554318695",
+      "timestamp": "2026-05-23T16:38:38.695Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1332 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554273214",
+      "timestamp": "2026-05-23T16:37:53.214Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2619 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554225570",
+      "timestamp": "2026-05-23T16:37:05.570Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3529 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554165563",
+      "timestamp": "2026-05-23T16:36:05.563Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1467 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554089909",
+      "timestamp": "2026-05-23T16:34:49.909Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1702 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779554043573",
+      "timestamp": "2026-05-23T16:34:03.573Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3694 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553998564",
+      "timestamp": "2026-05-23T16:33:18.564Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1077 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553908548",
+      "timestamp": "2026-05-23T16:31:48.548Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2610 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553863191",
+      "timestamp": "2026-05-23T16:31:03.191Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3202 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553805554",
+      "timestamp": "2026-05-23T16:30:05.554Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2164 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553746851",
+      "timestamp": "2026-05-23T16:29:06.851Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3141 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553666542",
+      "timestamp": "2026-05-23T16:27:46.542Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1532 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553621532",
+      "timestamp": "2026-05-23T16:27:01.532Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3369 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553592698",
+      "timestamp": "2026-05-23T16:26:32.698Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1808 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553565528",
+      "timestamp": "2026-05-23T16:26:05.528Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3867 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553486522",
+      "timestamp": "2026-05-23T16:24:46.522Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2004 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553442229",
+      "timestamp": "2026-05-23T16:24:02.229Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2105 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553395966",
+      "timestamp": "2026-05-23T16:23:15.966Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3253 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553351517",
+      "timestamp": "2026-05-23T16:22:31.517Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +1618 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553306713",
+      "timestamp": "2026-05-23T16:21:46.713Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +2253 organic impressions."
+    },
+    {
+      "id": "log-traffic-1779553261513",
+      "timestamp": "2026-05-23T16:21:01.513Z",
+      "type": "success",
+      "message": "[Traffic Engine] Checked views. Channels received traffic: +3365 organic impressions."
+    },
+    {
+      "id": "log-tick4-1779553235473",
+      "timestamp": "2026-05-23T16:20:35.473Z",
+      "type": "success",
+      "message": "[Instagram Graph API] Reels published to instagram: \"@cosmo_facts.ai\". Video preview ready on Android Dashboard."
+    },
+    {
+      "id": "log-tick3-1779553235473",
+      "timestamp": "2026-05-23T16:20:35.473Z",
+      "type": "success",
+      "message": "[YouTube API Proxy] Video published to YouTube Channel \"CosmoFacts Shorts AI\". Link: https://youtube.com/shorts/mock-auto"
+    },
+    {
+      "id": "log-tick2-1779553235473",
+      "timestamp": "2026-05-23T16:20:35.473Z",
+      "type": "info",
+      "message": "[Post Queue] Compiled audio voiceover using synthetic accent Zephyr. Synced subtitles injected."
+    },
+    {
+      "id": "log-tick1-1779553235473",
+      "timestamp": "2026-05-23T16:20:35.473Z",
+      "type": "success",
+      "message": "[Morning Automation] Daily short video successfully generated: \"The Liquid Diamond Storms of Jupiter (Auto-Scheduled)\"."
+    }
+  ],
+  "analyticsHistory": {
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "youtubeViews": [
+      109243,
+      110202,
+      111869,
+      114980,
+      117653,
+      119074,
+      119815
+    ],
+    "instagramViews": [
+      136210,
+      138722,
+      142505,
+      146234,
+      148517,
+      149416,
+      151453
+    ],
+    "youtubeSubscribers": [
+      9185,
+      9241,
+      9409,
+      9450,
+      9593,
+      9628,
+      9787
+    ],
+    "instagramFollowers": [
+      9447,
+      9585,
+      9642,
+      9742,
+      9950,
+      10054,
+      10253
+    ]
+  }
+}
